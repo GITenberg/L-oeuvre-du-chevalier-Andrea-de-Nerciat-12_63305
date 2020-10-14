@@ -1,0 +1,46 @@
+_repo: L-oeuvre-du-chevalier-Andrea-de-Nerciat-12_63305
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nerciat, Andréa de
+    aliases:
+    - Nerciat, Andrea de
+    - Cazzone, docteur
+    - Robert, André
+    - Docteur Cazzoné
+    - Cazzoné, docteur
+    - De Nerciat, Andréa
+    birthdate: 1739
+    deathdate: 1800
+    gutenberg_agent_id: '52370'
+    url: http://www.gutenberg.org/2009/agents/52370
+    wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9-Robert_Andr%C3%A9a_de_Nerciat
+  editor:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - De Kostrowisky, Guillaume
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowisky, Guillaume de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guillaume_Apollinaire
+    - https://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63305'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Erotic literature, French'
+- GITenberg
+title: L'oeuvre du chevalier Andrea de Nerciat (1/2)
+url: http://www.gutenberg.org/ebooks/63305
